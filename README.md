@@ -11,6 +11,5 @@
 - 🤔 I’m looking for help with Python Django
 - 💬 Ask me about ismailcykk@gmail.com
 - 📫 How to reach me: ismailcykk@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
